@@ -1,2 +1,2 @@
-# Hand wriiten digit detect using machine learing and python
+# Hand wriiten digit detect using machine learning and python
 https://ahnaf-alam.github.io/Hand-Written-Digit-Detectin/
